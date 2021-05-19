@@ -2,4 +2,4 @@
 找到C:\Program Files\3000soft\Red Spider这个目录，
 找到RSagent这程序改名（随便改），然后开启任务管理器（ctrl+alt+delete）
 把进程RSagent.exe进程关闭
-2.
+2.禁用网络
